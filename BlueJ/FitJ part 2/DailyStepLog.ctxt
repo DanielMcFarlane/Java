@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DailyStepLog
+comment0.text=\n\ Write\ a\ description\ of\ class\ DailyStepLog\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=day\ stepCount
+comment1.target=DailyStepLog(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DailyStepLog\n
+comment2.params=
+comment2.target=java.lang.String\ getDay()
+comment3.params=
+comment3.target=int\ getStepCount()
+comment4.params=
+comment4.target=boolean\ isTargetAchieved()
+numComments=5

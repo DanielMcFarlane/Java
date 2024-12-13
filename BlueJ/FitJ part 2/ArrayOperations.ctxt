@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArrayOperations
+comment0.text=\n\ Write\ a\ description\ of\ class\ ArrayOperations\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ArrayOperations()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayOperations\n
+comment2.params=nums
+comment2.target=ArrayOperations(int[])
+comment3.params=
+comment3.target=void\ reverse()
+comment4.params=numToFind
+comment4.target=int\ findElement(int)
+comment4.text=\n\ findElement\ method\n\ complete\ for\ homework\n\ \n\ loops\ through\ array\ searching\ for\ numToFind\ \n\ If\ found\ returns\ index\ found\ at\ otherwise\ returns\ -1\ \n\n\ @param\ numToFind\ A\ parameter\n
+numComments=5

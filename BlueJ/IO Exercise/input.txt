@@ -1,0 +1,3 @@
+Welcome to the File I/O tutorial.
+This lesson covers reading and writing files in Java.
+Practice makes perfect, so let's code together!
