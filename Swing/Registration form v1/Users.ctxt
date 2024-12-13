@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Users
+comment1.params=
+comment1.target=Users()
+comment2.params=
+comment2.target=Users\ getInstance()
+comment3.params=user
+comment3.target=boolean\ addUser(User)
+comment4.params=email
+comment4.target=boolean\ isEmailUnique(java.lang.String)
+comment5.params=
+comment5.target=java.util.ArrayList\ getUserList()
+comment6.params=password
+comment6.target=boolean\ isPasswordStrong(java.lang.String)
+numComments=7
