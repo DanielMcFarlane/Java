@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Write\ a\ description\ of\ class\ Car\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=make\ model
+comment1.target=Car(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment3.params=
+comment3.target=java.lang.String\ getModel()
+numComments=4
