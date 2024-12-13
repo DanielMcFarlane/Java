@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Users
+comment0.text=\n\ Write\ a\ description\ of\ class\ Users\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Users()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Users\n
+comment2.params=username
+comment2.target=User\ findUser(java.lang.String)
+comment3.params=username\ password\ email\ phoneNumber
+comment3.target=void\ registerUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=username\ password
+comment4.target=void\ loginUser(java.lang.String,\ java.lang.String)
+numComments=5

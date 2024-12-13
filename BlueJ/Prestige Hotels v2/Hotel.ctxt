@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hotel
+comment1.params=
+comment1.target=Hotel()
+comment2.params=
+comment2.target=void\ addRooms()
+comment3.params=roomNumber
+comment3.target=Room\ findRoom(int)
+comment4.params=
+comment4.target=Room\ getCheapestRoom()
+numComments=5
