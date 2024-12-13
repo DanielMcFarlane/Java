@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Garage
+comment0.text=\n\ Write\ a\ description\ of\ class\ Garage\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Garage()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Garage\n
+comment2.params=vehicle
+comment2.target=void\ addVehicle(Vehicle)
+comment3.params=
+comment3.target=void\ test()
+numComments=4

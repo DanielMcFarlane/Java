@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Write\ a\ description\ of\ class\ Car\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Car()
+comment2.params=trailer
+comment2.target=void\ attatchTrailer(Trailer)
+comment3.params=engine
+comment3.target=void\ startCar(Engine)
+comment4.params=engine
+comment4.target=void\ stopCar(Engine)
+comment5.params=
+comment5.target=void\ isTowing()
+comment6.params=
+comment6.target=void\ detatchTrailer()
+comment7.params=driver
+comment7.target=void\ addDriver(Driver)
+comment8.params=
+comment8.target=void\ carStatus()
+numComments=9
